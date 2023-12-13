@@ -1,0 +1,5 @@
+Receipt
+================
+Customer1 items: Fruit2(added package), Do not forget to keep Meat2 in a fridge!
+================
+Total Cost: 90.5

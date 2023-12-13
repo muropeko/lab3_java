@@ -1,0 +1,2 @@
+# Customer1 items: Fruit2(added package), Do not forget to keep Meat2 in a fridge!
+Customer1 bought Fruit2 Meat2 by price 90.5
